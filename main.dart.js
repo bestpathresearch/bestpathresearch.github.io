@@ -33722,7 +33722,7 @@ e=A.aoo("application/vnd.sagemaker-triton.binary+json;json-header-size=0",null,B
 c=A.agm(new A.au(f,new A.QX(),A.aR(f).h("au<L.E,y<n>>")),t.Cm)
 e.a="POST"
 s=4
-return A.Y(b.zh(0,"https://api.roboreceipts.com/socrtest",null,c,null,null,e,null,t.z),$async$oD)
+return A.Y(b.zh(0,"https://api.roboreceipts.com/cocrtest",null,c,null,null,e,null,t.z),$async$oD)
 case 4:d=a2
 A.dx("\n\n")
 A.dx("RESPONSE WITH DIO")
